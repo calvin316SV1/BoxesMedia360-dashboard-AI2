@@ -1,0 +1,5 @@
+{
+  "name": "BoxesMedia360 Dashboard",
+  "description": "A comprehensive dashboard for managing clients, projects, and finances. Features include a fully responsive UI, interactive cards with glow effects, data management modals, project progress tracking with editable checklists, invoicing with automatic tax calculation, and visual project reporting.",
+  "requestFramePermissions": []
+}
